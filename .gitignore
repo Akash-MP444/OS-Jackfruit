@@ -1,5 +1,3 @@
-solved
-
 # Build artifacts (user-space)
 boilerplate/engine
 boilerplate/memory_hog
@@ -11,24 +9,16 @@ boilerplate/io_pulse
 *.o
 *.mod
 *.mod.c
+*.mod.o
 Module.symvers
 modules.order
 *.cmd
 .tmp_versions/
 
-# Root filesystems
+# Root filesystems (VERY IMPORTANT)
 rootfs-base/
-rootfs-*/
-*.tar.gz
+rootfs-alpha/
+rootfs-beta/
 
 # Logs
-*.log
 logs/
-
-# Runtime socket
-/tmp/mini_runtime.sock
-
-# Editor / OS junk
-*.swp
-*~
-.vscode/
