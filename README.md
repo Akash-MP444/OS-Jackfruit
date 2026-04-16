@@ -435,6 +435,5 @@ make clean
 
 - The supervisor must be restarted after loading the kernel module if you want memory monitoring to work.
 - Fast memory workloads can trigger the global OOM killer before the 1-second monitor timer fires. The validated demonstration uses `"/memory_hog 4 700"` with `--soft-mib 8 --hard-mib 16`.
-- Each running container should use a distinct writable rootfs copy.f r i e n d   c o n t r i b u t i o n 
- 
+- Each running container should use a distinct writable rootfs copy.
  
