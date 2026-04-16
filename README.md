@@ -3,8 +3,10 @@
 ## Members
 - **Name1:** Akash M P  
   **SRN1:** PES1UG24CS040  
+  **GitHub:** [Akash-MP444](https://github.com/Akash-MP444)
 - **Name2:** Aditya T J  
   **SRN2:** PES1UG24CS031  
+  **GitHub:** [Aditya-TJ](https://github.com/Aditya-TJ)
 
 ---
 
